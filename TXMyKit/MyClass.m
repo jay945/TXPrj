@@ -15,4 +15,9 @@
     NSLog(@"This is my kit");
 }
 
+-(void)printTest2 {
+    
+    NSLog(@"This is my kit2");
+}
+
 @end
